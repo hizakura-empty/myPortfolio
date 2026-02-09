@@ -27,6 +27,7 @@ body {
     color: var(--color-text);
     background-color: var(--color-bg);
     line-height: 1.6;
+    letter-spacing: 0.05em;
     -webkit-font-smoothing: antialiased;
 }
 
